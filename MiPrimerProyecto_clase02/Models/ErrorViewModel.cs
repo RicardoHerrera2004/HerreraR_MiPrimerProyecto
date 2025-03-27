@@ -7,3 +7,5 @@ namespace MiPrimerProyecto_clase02.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+//este es mi segundo cambio
